@@ -1,0 +1,56 @@
+{
+    "id": "string",
+    "average_breath": 0,
+    "average_heart_rate": 0,
+    "average_hrv": 0,
+    "awake_time": 0,
+    "bedtime_end": "string",
+    "bedtime_start": "string",
+    "day": "2019-08-24",
+    "deep_sleep_duration": 0,
+    "efficiency": 0,
+    "heart_rate": {
+      "interval": 0,
+      "items": [
+        0
+      ],
+      "timestamp": "string"
+    },
+    "hrv": {
+      "interval": 0,
+      "items": [
+        0
+      ],
+      "timestamp": "string"
+    },
+    "latency": 0,
+    "light_sleep_duration": 0,
+    "low_battery_alert": true,
+    "lowest_heart_rate": 0,
+    "movement_30_sec": "string",
+    "period": 0,
+    "readiness": {
+      "contributors": {
+        "activity_balance": 0,
+        "body_temperature": 0,
+        "hrv_balance": 0,
+        "previous_day_activity": 0,
+        "previous_night": 0,
+        "recovery_index": 0,
+        "resting_heart_rate": 0,
+        "sleep_balance": 0
+      },
+      "score": 0,
+      "temperature_deviation": 0,
+      "temperature_trend_deviation": 0
+    },
+    "readiness_score_delta": 0,
+    "rem_sleep_duration": 0,
+    "restless_periods": 0,
+    "sleep_phase_5_min": "string",
+    "sleep_score_delta": 0,
+    "sleep_algorithm_version": "v1",
+    "time_in_bed": 0,
+    "total_sleep_duration": 0,
+    "type": "deleted"
+  }

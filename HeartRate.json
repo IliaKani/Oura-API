@@ -1,0 +1,10 @@
+{
+    "data": [
+      {
+        "bpm": 0,
+        "source": "awake",
+        "timestamp": "string"
+      }
+    ],
+    "next_token": "string"
+  }

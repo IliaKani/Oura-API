@@ -1,0 +1,12 @@
+{
+    "id": "string",
+    "activity": "string",
+    "calories": 0,
+    "day": "2019-08-24",
+    "distance": 0,
+    "end_datetime": "string",
+    "intensity": "easy",
+    "label": "string",
+    "source": "autodetected",
+    "start_datetime": "string"
+  }

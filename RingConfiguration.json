@@ -1,0 +1,9 @@
+{
+    "id": "string",
+    "color": "brushed_silver",
+    "design": "balance",
+    "firmware_version": "string",
+    "hardware_type": "gen1",
+    "set_up_at": "string",
+    "size": 0
+  }

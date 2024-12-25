@@ -1,0 +1,15 @@
+{
+    "id": "string",
+    "end_day": "2019-08-24",
+    "end_time": "string",
+    "episodes": [
+      {
+        "tags": [
+          "string"
+        ],
+        "timestamp": "string"
+      }
+    ],
+    "start_day": "2019-08-24",
+    "start_time": "string"
+  }

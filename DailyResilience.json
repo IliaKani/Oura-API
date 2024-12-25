@@ -1,0 +1,10 @@
+{
+    "id": "string",
+    "day": "2019-08-24",
+    "contributors": {
+      "sleep_recovery": 0,
+      "daytime_recovery": 0,
+      "stress": 0
+    },
+    "level": "limited"
+  }

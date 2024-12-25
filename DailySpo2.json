@@ -1,0 +1,8 @@
+{
+    "id": "string",
+    "day": "2019-08-24",
+    "spo2_percentage": {
+      "average": 0
+    },
+    "breathing_disturbance_index": 0
+  }

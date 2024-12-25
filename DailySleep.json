@@ -1,0 +1,15 @@
+{
+    "id": "string",
+    "contributors": {
+      "deep_sleep": 0,
+      "efficiency": 0,
+      "latency": 0,
+      "rem_sleep": 0,
+      "restfulness": 0,
+      "timing": 0,
+      "total_sleep": 0
+    },
+    "day": "2019-08-24",
+    "score": 0,
+    "timestamp": "string"
+  }
